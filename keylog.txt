@@ -1,0 +1,408 @@
+2025-08-08 10:35:07,976: Key pressed: n
+2025-08-08 10:35:08,207: Key pressed: d
+2025-08-08 10:35:08,581: Key pressed: n
+2025-08-08 10:35:10,162: Special key pressed: Key.backspace
+2025-08-08 10:35:10,664: Special key pressed: Key.backspace
+2025-08-08 10:35:10,694: Special key pressed: Key.backspace
+2025-08-08 10:35:10,724: Special key pressed: Key.backspace
+2025-08-08 10:35:10,754: Special key pressed: Key.backspace
+2025-08-08 10:35:10,784: Special key pressed: Key.backspace
+2025-08-08 10:35:10,814: Special key pressed: Key.backspace
+2025-08-08 10:35:22,156: Key pressed: j
+2025-08-08 10:35:22,351: Key pressed: d
+2025-08-08 10:35:22,382: Key pressed: f
+2025-08-08 10:35:22,453: Key pressed: k
+2025-08-08 10:35:22,636: Key pressed: g
+2025-08-08 10:35:22,668: Key pressed: n
+2025-08-08 10:35:22,754: Key pressed: f
+2025-08-08 10:35:22,808: Key pressed: g
+2025-08-08 10:35:22,877: Key pressed: n
+2025-08-08 10:35:22,928: Key pressed: f
+2025-08-08 10:35:22,985: Key pressed: v
+2025-08-08 10:35:23,065: Key pressed: n
+2025-08-08 10:35:23,091: Key pressed: f
+2025-08-08 10:35:23,148: Key pressed: n
+2025-08-08 10:35:23,914: Special key pressed: Key.backspace
+2025-08-08 10:35:24,079: Special key pressed: Key.backspace
+2025-08-08 10:35:24,222: Special key pressed: Key.backspace
+2025-08-08 10:35:24,499: Special key pressed: Key.backspace
+2025-08-08 10:35:24,699: Special key pressed: Key.backspace
+2025-08-08 10:35:25,201: Special key pressed: Key.backspace
+2025-08-08 10:35:25,233: Special key pressed: Key.backspace
+2025-08-08 10:35:25,261: Special key pressed: Key.backspace
+2025-08-08 10:35:25,291: Special key pressed: Key.backspace
+2025-08-08 10:35:25,321: Special key pressed: Key.backspace
+2025-08-08 10:35:25,351: Special key pressed: Key.backspace
+2025-08-08 10:35:25,381: Special key pressed: Key.backspace
+2025-08-08 10:35:25,529: Special key pressed: Key.backspace
+2025-08-08 10:35:25,747: Special key pressed: Key.backspace
+2025-08-08 10:36:29,032: Special key pressed: Key.backspace
+2025-08-08 10:36:29,203: Special key pressed: Key.backspace
+2025-08-08 10:36:29,327: Special key pressed: Key.backspace
+2025-08-08 10:36:29,774: Special key pressed: Key.backspace
+2025-08-08 10:36:29,890: Special key pressed: Key.backspace
+2025-08-08 10:36:30,015: Special key pressed: Key.backspace
+2025-08-08 10:36:30,124: Special key pressed: Key.backspace
+2025-08-08 10:36:30,248: Special key pressed: Key.backspace
+2025-08-08 10:36:30,370: Special key pressed: Key.backspace
+2025-08-08 10:36:30,503: Special key pressed: Key.backspace
+2025-08-08 10:36:30,635: Special key pressed: Key.backspace
+2025-08-08 10:36:30,806: Special key pressed: Key.backspace
+2025-08-08 10:36:30,918: Special key pressed: Key.backspace
+2025-08-08 10:36:31,072: Special key pressed: Key.backspace
+2025-08-08 10:36:31,240: Special key pressed: Key.backspace
+2025-08-08 10:36:31,418: Special key pressed: Key.backspace
+2025-08-08 10:36:31,563: Special key pressed: Key.backspace
+2025-08-08 10:36:31,699: Special key pressed: Key.backspace
+2025-08-08 10:36:31,826: Special key pressed: Key.backspace
+2025-08-08 10:36:31,951: Special key pressed: Key.backspace
+2025-08-08 10:36:32,073: Special key pressed: Key.backspace
+2025-08-08 10:36:32,191: Special key pressed: Key.backspace
+2025-08-08 10:36:33,116: Special key pressed: Key.down
+2025-08-08 10:36:33,405: Special key pressed: Key.down
+2025-08-08 10:36:33,988: Special key pressed: Key.down
+2025-08-08 10:36:34,471: Special key pressed: Key.right
+2025-08-08 10:36:34,968: Special key pressed: Key.right
+2025-08-08 10:36:34,999: Special key pressed: Key.right
+2025-08-08 10:36:35,029: Special key pressed: Key.right
+2025-08-08 10:36:35,059: Special key pressed: Key.right
+2025-08-08 10:36:35,089: Special key pressed: Key.right
+2025-08-08 10:36:35,119: Special key pressed: Key.right
+2025-08-08 10:36:35,149: Special key pressed: Key.right
+2025-08-08 10:36:35,179: Special key pressed: Key.right
+2025-08-08 10:36:35,209: Special key pressed: Key.right
+2025-08-08 10:36:35,239: Special key pressed: Key.right
+2025-08-08 10:36:35,270: Special key pressed: Key.right
+2025-08-08 10:36:35,299: Special key pressed: Key.right
+2025-08-08 10:36:35,329: Special key pressed: Key.right
+2025-08-08 10:36:35,359: Special key pressed: Key.right
+2025-08-08 10:36:35,389: Special key pressed: Key.right
+2025-08-08 10:36:35,420: Special key pressed: Key.right
+2025-08-08 10:36:35,449: Special key pressed: Key.right
+2025-08-08 10:36:35,480: Special key pressed: Key.right
+2025-08-08 10:36:35,510: Special key pressed: Key.right
+2025-08-08 10:36:35,540: Special key pressed: Key.right
+2025-08-08 10:36:35,871: Special key pressed: Key.right
+2025-08-08 10:36:36,359: Special key pressed: Key.backspace
+2025-08-08 10:36:36,521: Special key pressed: Key.backspace
+2025-08-08 10:36:36,654: Special key pressed: Key.backspace
+2025-08-08 10:36:37,155: Special key pressed: Key.backspace
+2025-08-08 10:36:37,186: Special key pressed: Key.backspace
+2025-08-08 10:36:37,216: Special key pressed: Key.backspace
+2025-08-08 10:36:37,245: Special key pressed: Key.backspace
+2025-08-08 10:36:37,276: Special key pressed: Key.backspace
+2025-08-08 10:36:37,305: Special key pressed: Key.backspace
+2025-08-08 10:36:37,336: Special key pressed: Key.backspace
+2025-08-08 10:36:37,366: Special key pressed: Key.backspace
+2025-08-08 10:36:37,396: Special key pressed: Key.backspace
+2025-08-08 10:36:37,426: Special key pressed: Key.backspace
+2025-08-08 10:36:37,456: Special key pressed: Key.backspace
+2025-08-08 10:36:37,486: Special key pressed: Key.backspace
+2025-08-08 10:36:37,516: Special key pressed: Key.backspace
+2025-08-08 10:36:37,546: Special key pressed: Key.backspace
+2025-08-08 10:36:37,718: Special key pressed: Key.backspace
+2025-08-08 10:36:37,882: Special key pressed: Key.backspace
+2025-08-08 10:36:38,024: Special key pressed: Key.backspace
+2025-08-08 10:36:38,161: Special key pressed: Key.backspace
+2025-08-08 10:36:38,472: Special key pressed: Key.backspace
+2025-08-08 10:36:38,762: Special key pressed: Key.backspace
+2025-08-08 10:36:39,494: Special key pressed: Key.down
+2025-08-08 10:36:39,999: Special key pressed: Key.down
+2025-08-08 10:36:40,028: Special key pressed: Key.down
+2025-08-08 10:36:40,058: Special key pressed: Key.down
+2025-08-08 10:36:40,088: Special key pressed: Key.down
+2025-08-08 10:36:40,118: Special key pressed: Key.down
+2025-08-08 10:36:40,148: Special key pressed: Key.down
+2025-08-08 10:36:40,178: Special key pressed: Key.down
+2025-08-08 10:36:40,208: Special key pressed: Key.down
+2025-08-08 10:36:40,238: Special key pressed: Key.down
+2025-08-08 10:36:40,268: Special key pressed: Key.down
+2025-08-08 10:36:41,039: Special key pressed: Key.up
+2025-08-08 10:36:41,298: Special key pressed: Key.right
+2025-08-08 10:36:41,800: Special key pressed: Key.right
+2025-08-08 10:36:41,831: Special key pressed: Key.right
+2025-08-08 10:36:41,860: Special key pressed: Key.right
+2025-08-08 10:36:41,891: Special key pressed: Key.right
+2025-08-08 10:36:41,921: Special key pressed: Key.right
+2025-08-08 10:36:41,951: Special key pressed: Key.right
+2025-08-08 10:36:41,981: Special key pressed: Key.right
+2025-08-08 10:36:42,011: Special key pressed: Key.right
+2025-08-08 10:36:42,041: Special key pressed: Key.right
+2025-08-08 10:36:42,071: Special key pressed: Key.right
+2025-08-08 10:36:42,101: Special key pressed: Key.right
+2025-08-08 10:36:42,131: Special key pressed: Key.right
+2025-08-08 10:36:42,161: Special key pressed: Key.right
+2025-08-08 10:36:42,191: Special key pressed: Key.right
+2025-08-08 10:36:42,221: Special key pressed: Key.right
+2025-08-08 10:36:42,251: Special key pressed: Key.right
+2025-08-08 10:36:42,282: Special key pressed: Key.right
+2025-08-08 10:36:42,313: Special key pressed: Key.right
+2025-08-08 10:36:42,569: Special key pressed: Key.up
+2025-08-08 10:36:43,375: Special key pressed: Key.backspace
+2025-08-08 10:36:43,879: Special key pressed: Key.backspace
+2025-08-08 10:36:43,907: Special key pressed: Key.backspace
+2025-08-08 10:36:43,938: Special key pressed: Key.backspace
+2025-08-08 10:36:43,967: Special key pressed: Key.backspace
+2025-08-08 10:36:43,998: Special key pressed: Key.backspace
+2025-08-08 10:36:44,029: Special key pressed: Key.backspace
+2025-08-08 10:36:44,058: Special key pressed: Key.backspace
+2025-08-08 10:36:44,088: Special key pressed: Key.backspace
+2025-08-08 10:36:44,118: Special key pressed: Key.backspace
+2025-08-08 10:36:44,148: Special key pressed: Key.backspace
+2025-08-08 10:36:44,178: Special key pressed: Key.backspace
+2025-08-08 10:36:44,208: Special key pressed: Key.backspace
+2025-08-08 10:36:44,238: Special key pressed: Key.backspace
+2025-08-08 10:36:44,268: Special key pressed: Key.backspace
+2025-08-08 10:36:44,298: Special key pressed: Key.backspace
+2025-08-08 10:36:44,328: Special key pressed: Key.backspace
+2025-08-08 10:36:44,359: Special key pressed: Key.backspace
+2025-08-08 10:36:44,389: Special key pressed: Key.backspace
+2025-08-08 10:36:44,419: Special key pressed: Key.backspace
+2025-08-08 10:36:46,026: Special key pressed: Key.ctrl_l
+2025-08-08 10:36:46,468: Key pressed: 
+2025-08-08 10:36:56,870: Special key pressed: Key.backspace
+2025-08-08 10:36:57,369: Special key pressed: Key.backspace
+2025-08-08 10:36:57,399: Special key pressed: Key.backspace
+2025-08-08 10:36:57,430: Special key pressed: Key.backspace
+2025-08-08 10:36:57,460: Special key pressed: Key.backspace
+2025-08-08 10:36:57,489: Special key pressed: Key.backspace
+2025-08-08 10:36:57,520: Special key pressed: Key.backspace
+2025-08-08 10:36:57,550: Special key pressed: Key.backspace
+2025-08-08 10:36:57,580: Special key pressed: Key.backspace
+2025-08-08 10:36:57,610: Special key pressed: Key.backspace
+2025-08-08 10:36:57,758: Special key pressed: Key.backspace
+2025-08-08 10:36:57,927: Special key pressed: Key.backspace
+2025-08-08 10:36:58,079: Special key pressed: Key.backspace
+2025-08-08 10:36:58,227: Special key pressed: Key.backspace
+2025-08-08 10:36:58,363: Special key pressed: Key.backspace
+2025-08-08 10:36:58,879: Special key pressed: Key.backspace
+2025-08-08 10:36:59,034: Special key pressed: Key.backspace
+2025-08-08 10:36:59,613: Special key pressed: Key.backspace
+2025-08-08 10:36:59,803: Special key pressed: Key.backspace
+2025-08-08 10:37:03,684: Special key pressed: Key.backspace
+2025-08-08 10:37:03,843: Special key pressed: Key.backspace
+2025-08-08 10:37:03,994: Special key pressed: Key.backspace
+2025-08-08 10:37:04,120: Special key pressed: Key.backspace
+2025-08-08 10:37:04,255: Special key pressed: Key.backspace
+2025-08-08 10:37:04,525: Special key pressed: Key.backspace
+2025-08-08 10:37:04,635: Special key pressed: Key.backspace
+2025-08-08 10:37:04,749: Special key pressed: Key.backspace
+2025-08-08 10:37:04,873: Special key pressed: Key.backspace
+2025-08-08 10:37:05,084: Special key pressed: Key.backspace
+2025-08-08 10:37:05,393: Special key pressed: Key.backspace
+2025-08-08 10:37:05,606: Special key pressed: Key.backspace
+2025-08-08 10:37:08,772: Special key pressed: Key.backspace
+2025-08-08 10:37:08,932: Special key pressed: Key.backspace
+2025-08-08 10:37:09,082: Special key pressed: Key.backspace
+2025-08-08 10:37:09,205: Special key pressed: Key.backspace
+2025-08-08 10:37:09,323: Special key pressed: Key.backspace
+2025-08-08 10:37:09,423: Special key pressed: Key.backspace
+2025-08-08 10:37:09,633: Special key pressed: Key.backspace
+2025-08-08 10:37:09,767: Special key pressed: Key.backspace
+2025-08-08 10:37:09,892: Special key pressed: Key.backspace
+2025-08-08 10:37:10,325: Special key pressed: Key.backspace
+2025-08-08 10:37:10,617: Special key pressed: Key.backspace
+2025-08-08 10:37:10,966: Special key pressed: Key.backspace
+2025-08-08 10:37:22,592: Special key pressed: Key.backspace
+2025-08-08 10:37:22,750: Special key pressed: Key.backspace
+2025-08-08 10:37:22,888: Special key pressed: Key.backspace
+2025-08-08 10:37:23,025: Special key pressed: Key.backspace
+2025-08-08 10:37:23,236: Special key pressed: Key.backspace
+2025-08-08 10:37:23,356: Special key pressed: Key.backspace
+2025-08-08 10:37:23,575: Special key pressed: Key.backspace
+2025-08-08 10:37:23,780: Special key pressed: Key.backspace
+2025-08-08 10:37:23,909: Special key pressed: Key.backspace
+2025-08-08 10:37:24,110: Special key pressed: Key.backspace
+2025-08-08 10:37:24,301: Special key pressed: Key.backspace
+2025-08-08 10:37:24,701: Special key pressed: Key.backspace
+2025-08-08 10:37:49,655: Special key pressed: Key.backspace
+2025-08-08 10:37:50,155: Special key pressed: Key.backspace
+2025-08-08 10:37:50,185: Special key pressed: Key.backspace
+2025-08-08 10:37:50,214: Special key pressed: Key.backspace
+2025-08-08 10:37:50,245: Special key pressed: Key.backspace
+2025-08-08 10:37:50,275: Special key pressed: Key.backspace
+2025-08-08 10:37:50,305: Special key pressed: Key.backspace
+2025-08-08 10:37:50,335: Special key pressed: Key.backspace
+2025-08-08 10:37:50,365: Special key pressed: Key.backspace
+2025-08-08 10:37:50,395: Special key pressed: Key.backspace
+2025-08-08 10:37:50,426: Special key pressed: Key.backspace
+2025-08-08 10:37:50,456: Special key pressed: Key.backspace
+2025-08-08 10:37:50,486: Special key pressed: Key.backspace
+2025-08-08 10:37:50,663: Special key pressed: Key.backspace
+2025-08-08 10:37:50,829: Special key pressed: Key.backspace
+2025-08-08 10:37:50,975: Special key pressed: Key.backspace
+2025-08-08 10:37:51,113: Special key pressed: Key.backspace
+2025-08-08 10:37:51,249: Special key pressed: Key.backspace
+2025-08-08 10:37:51,387: Special key pressed: Key.backspace
+2025-08-08 10:37:51,596: Special key pressed: Key.backspace
+2025-08-08 10:37:51,939: Special key pressed: Key.backspace
+2025-08-08 10:37:52,258: Special key pressed: Key.backspace
+2025-08-08 10:37:55,190: Special key pressed: Key.backspace
+2025-08-08 10:37:55,693: Special key pressed: Key.backspace
+2025-08-08 10:37:55,723: Special key pressed: Key.backspace
+2025-08-08 10:37:55,753: Special key pressed: Key.backspace
+2025-08-08 10:37:55,781: Special key pressed: Key.backspace
+2025-08-08 10:37:55,812: Special key pressed: Key.backspace
+2025-08-08 10:37:55,847: Special key pressed: Key.backspace
+2025-08-08 10:37:55,873: Special key pressed: Key.backspace
+2025-08-08 10:37:55,902: Special key pressed: Key.backspace
+2025-08-08 10:37:55,932: Special key pressed: Key.backspace
+2025-08-08 10:37:55,963: Special key pressed: Key.backspace
+2025-08-08 10:37:55,992: Special key pressed: Key.backspace
+2025-08-08 10:37:56,233: Special key pressed: Key.backspace
+2025-08-08 10:37:56,414: Special key pressed: Key.backspace
+2025-08-08 10:37:56,616: Special key pressed: Key.backspace
+2025-08-08 10:37:56,906: Special key pressed: Key.backspace
+2025-08-08 10:38:00,048: Special key pressed: Key.backspace
+2025-08-08 10:38:00,550: Special key pressed: Key.backspace
+2025-08-08 10:38:00,580: Special key pressed: Key.backspace
+2025-08-08 10:38:00,610: Special key pressed: Key.backspace
+2025-08-08 10:38:00,640: Special key pressed: Key.backspace
+2025-08-08 10:38:00,670: Special key pressed: Key.backspace
+2025-08-08 10:38:00,700: Special key pressed: Key.backspace
+2025-08-08 10:38:00,870: Special key pressed: Key.backspace
+2025-08-08 10:38:01,043: Special key pressed: Key.backspace
+2025-08-08 10:38:01,189: Special key pressed: Key.backspace
+2025-08-08 10:38:01,427: Special key pressed: Key.backspace
+2025-08-08 10:38:01,672: Special key pressed: Key.backspace
+2025-08-08 10:39:17,850: Special key pressed: Key.ctrl_l
+2025-08-08 10:39:18,003: Key pressed: 
+2025-08-08 10:39:33,186: Special key pressed: Key.backspace
+2025-08-08 10:39:34,413: Key pressed: c
+2025-08-08 10:39:34,526: Key pressed: a
+2025-08-08 10:39:35,062: Key pressed: e
+2025-08-08 10:39:35,286: Key pressed: s
+2025-08-08 10:39:35,500: Key pressed: e
+2025-08-08 10:39:35,681: Key pressed: r
+2025-08-08 10:39:35,856: Special key pressed: Key.space
+2025-08-08 10:39:36,601: Key pressed: c
+2025-08-08 10:39:36,909: Key pressed: i
+2025-08-08 10:39:37,117: Key pressed: p
+2025-08-08 10:39:37,438: Key pressed: g
+2025-08-08 10:39:37,559: Key pressed: e
+2025-08-08 10:39:37,911: Special key pressed: Key.backspace
+2025-08-08 10:39:38,096: Special key pressed: Key.backspace
+2025-08-08 10:39:39,182: Key pressed: h
+2025-08-08 10:39:39,257: Key pressed: e
+2025-08-08 10:39:39,472: Key pressed: r
+2025-08-08 10:39:39,662: Special key pressed: Key.space
+2025-08-08 10:39:42,805: Key pressed: c
+2025-08-08 10:39:42,981: Key pressed: o
+2025-08-08 10:39:43,130: Key pressed: d
+2025-08-08 10:39:43,312: Key pressed: e
+2025-08-08 10:39:44,272: Special key pressed: Key.enter
+2025-08-08 10:39:49,110: Special key pressed: Key.ctrl_l
+2025-08-08 10:39:49,257: Key pressed: 
+2025-08-08 10:39:50,423: Special key pressed: Key.enter
+2025-08-08 10:40:09,011: Special key pressed: Key.backspace
+2025-08-08 10:40:13,069: Key pressed: o
+2025-08-08 10:40:13,643: Special key pressed: Key.backspace
+2025-08-08 10:40:13,964: Key pressed: p
+2025-08-08 10:40:14,199: Key pressed: i
+2025-08-08 10:40:14,697: Key pressed: x
+2025-08-08 10:40:14,927: Key pressed: e
+2025-08-08 10:40:15,204: Key pressed: l
+2025-08-08 10:40:16,291: Special key pressed: Key.space
+2025-08-08 10:40:17,394: Key pressed: c
+2025-08-08 10:40:17,558: Key pressed: o
+2025-08-08 10:40:17,613: Key pressed: d
+2025-08-08 10:40:17,776: Key pressed: e
+2025-08-08 10:40:17,941: Key pressed: '
+2025-08-08 10:40:19,305: Special key pressed: Key.enter
+2025-08-08 10:40:31,256: Special key pressed: Key.left
+2025-08-08 10:40:40,450: Special key pressed: Key.ctrl_l
+2025-08-08 10:40:40,840: Key pressed: 
+2025-08-08 10:40:50,996: Special key pressed: Key.ctrl_l
+2025-08-08 10:40:51,141: Key pressed: 
+2025-08-08 10:40:59,638: Special key pressed: Key.backspace
+2025-08-08 10:41:02,477: Key pressed: p
+2025-08-08 10:41:03,021: Key pressed: a
+2025-08-08 10:41:03,353: Key pressed: s
+2025-08-08 10:41:03,547: Key pressed: s
+2025-08-08 10:41:04,444: Key pressed: w
+2025-08-08 10:41:04,668: Key pressed: o
+2025-08-08 10:41:04,874: Key pressed: r
+2025-08-08 10:41:05,119: Key pressed: d
+2025-08-08 10:41:05,323: Special key pressed: Key.space
+2025-08-08 10:41:06,274: Key pressed: c
+2025-08-08 10:41:06,428: Key pressed: o
+2025-08-08 10:41:06,493: Key pressed: d
+2025-08-08 10:41:06,680: Key pressed: e
+2025-08-08 10:41:06,901: Special key pressed: Key.enter
+2025-08-08 10:41:19,625: Special key pressed: Key.ctrl_l
+2025-08-08 10:41:19,875: Key pressed: 
+2025-08-08 10:41:26,133: Special key pressed: Key.ctrl_l
+2025-08-08 10:41:26,372: Key pressed: 
+2025-08-08 10:41:27,288: Special key pressed: Key.enter
+2025-08-08 10:41:48,703: Special key pressed: Key.ctrl_l
+2025-08-08 10:41:48,925: Key pressed: 
+2025-08-08 10:41:51,919: Special key pressed: Key.ctrl_l
+2025-08-08 10:41:56,976: Special key pressed: Key.backspace
+2025-08-08 10:41:57,524: Key pressed: k
+2025-08-08 10:41:57,717: Key pressed: e
+2025-08-08 10:41:57,979: Key pressed: y
+2025-08-08 10:41:58,451: Key pressed: l
+2025-08-08 10:41:58,723: Key pressed: o
+2025-08-08 10:41:59,007: Key pressed: g
+2025-08-08 10:41:59,162: Key pressed: g
+2025-08-08 10:41:59,240: Key pressed: e
+2025-08-08 10:41:59,420: Key pressed: r
+2025-08-08 10:41:59,532: Special key pressed: Key.space
+2025-08-08 10:42:00,331: Key pressed: c
+2025-08-08 10:42:00,469: Key pressed: o
+2025-08-08 10:42:00,538: Key pressed: d
+2025-08-08 10:42:00,703: Key pressed: e
+2025-08-08 10:42:00,794: Special key pressed: Key.space
+2025-08-08 10:42:07,130: Special key pressed: Key.ctrl_l
+2025-08-08 10:42:07,289: Key pressed: v
+2025-08-08 10:42:08,266: Special key pressed: Key.backspace
+2025-08-08 10:42:08,514: Special key pressed: Key.ctrl_l
+2025-08-08 10:42:08,743: Key pressed: 
+2025-08-08 10:42:09,929: Special key pressed: Key.enter
+2025-08-08 10:43:24,076: Special key pressed: Key.shift
+2025-08-08 10:43:25,107: Special key pressed: Key.backspace
+2025-08-08 10:43:26,279: Key pressed: g
+2025-08-08 10:43:26,634: Key pressed: i
+2025-08-08 10:43:26,826: Key pressed: t
+2025-08-08 10:43:27,158: Key pressed: h
+2025-08-08 10:43:27,345: Key pressed: u
+2025-08-08 10:43:27,528: Key pressed: b
+2025-08-08 10:44:26,745: Key pressed: g
+2025-08-08 10:44:26,992: Key pressed: i
+2025-08-08 10:44:27,313: Key pressed: t
+2025-08-08 10:44:27,656: Key pressed: h
+2025-08-08 10:44:27,855: Key pressed: u
+2025-08-08 10:44:28,072: Key pressed: b
+2025-08-08 10:44:28,358: Special key pressed: Key.enter
+2025-08-08 10:46:37,552: Key pressed: t
+2025-08-08 10:46:37,662: Key pressed: a
+2025-08-08 10:46:37,765: Key pressed: s
+2025-08-08 10:46:37,962: Key pressed: k
+2025-08-08 10:46:38,192: Special key pressed: Key.space
+2025-08-08 10:46:38,879: Key pressed: 1
+2025-08-08 10:46:39,063: Special key pressed: Key.space
+2025-08-08 10:47:33,693: Key pressed: t
+2025-08-08 10:47:33,810: Key pressed: a
+2025-08-08 10:47:33,921: Key pressed: s
+2025-08-08 10:47:34,153: Key pressed: j
+2025-08-08 10:47:34,671: Special key pressed: Key.backspace
+2025-08-08 10:47:34,951: Key pressed: k
+2025-08-08 10:47:35,145: Special key pressed: Key.space
+2025-08-08 10:47:35,924: Key pressed: 2
+2025-08-08 10:48:27,648: Key pressed: t
+2025-08-08 10:48:27,775: Key pressed: a
+2025-08-08 10:48:27,891: Key pressed: s
+2025-08-08 10:48:28,054: Key pressed: j
+2025-08-08 10:48:28,295: Special key pressed: Key.space
+2025-08-08 10:48:28,847: Special key pressed: Key.backspace
+2025-08-08 10:48:28,984: Special key pressed: Key.backspace
+2025-08-08 10:48:29,254: Key pressed: k
+2025-08-08 10:48:29,416: Special key pressed: Key.space
+2025-08-08 10:48:30,051: Key pressed: 3
+2025-08-08 10:48:30,791: Special key pressed: Key.enter
+2025-08-08 10:49:08,742: Key pressed: t
+2025-08-08 10:49:08,806: Key pressed: a
+2025-08-08 10:49:09,037: Key pressed: s
+2025-08-08 10:49:09,228: Key pressed: k
+2025-08-08 10:49:09,924: Special key pressed: Key.space
+2025-08-08 10:49:10,546: Key pressed: 4
