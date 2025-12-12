@@ -1,0 +1,77 @@
+import random
+
+def main():
+    print("Welcome to CyberGuard: Cybersecurity Awareness Game!")
+    print("Navigate through scenarios and make secure choices to earn points.\n")
+    
+    score = 0
+    scenarios = [
+        {
+            "question": "You receive an email from your bank asking for your account details. What do you do?",
+            "options": ["Click the link and enter your info.", "Verify the sender's email and contact the bank directly."],
+            "correct_option": "Verify the sender's email and contact the bank directly.",
+            "explanation": "Always verify suspicious emails. This is a phishing attempt."
+        },
+        {
+            "question": "What's a strong password example?",
+            "options": ["'password123'", "'Tr!ckyP@ssw0rd2023!'"],
+            "correct_option": "'Tr!ckyP@ssw0rd2023!'",
+            "explanation": "Strong passwords are long, unique, and include symbols/numbers."
+        },
+        {
+            "question": "A stranger offers to help fix your computer. What do you do?",
+            "options": ["Let them connect to your device.", "Politely decline and seek help from a trusted source."],
+            "correct_option": "Politely decline and seek help from a trusted source.",
+            "explanation": "Avoid letting strangers access your devices to prevent malware or data theft."
+        },
+        {
+            "question": "You find a USB drive on the street. What do you do?",
+            "options": ["Plug it into your computer to see what's on it.", "Leave it alone or report it."],
+            "correct_option": "Leave it alone or report it.",
+            "explanation": "Unknown USBs can contain malware. Never plug in found devices."
+        },
+        {
+            "question": "How often should you update your software?",
+            "options": ["Only when it breaks.", "As soon as updates are available."],
+            "correct_option": "As soon as updates are available.",
+            "explanation": "Updates patch security vulnerabilities."
+        }
+    ]
+    
+    random.shuffle(scenarios)  # Randomize order for replayability
+    
+    for scenario in scenarios:
+        print(scenario["question"])
+        shuffled_options = scenario["options"][:]
+        random.shuffle(shuffled_options)
+        correct_index = shuffled_options.index(scenario["correct_option"]) + 1
+        for i, option in enumerate(shuffled_options, 1):
+            print(f"{i}. {option}")
+
+        while True:
+            try:
+                choice = int(input("Enter your choice (1 or 2): "))
+                if choice in [1, 2]:
+                    break
+                else:
+                    print("Invalid choice. Please enter 1 or 2.")
+            except ValueError:
+                print("Please enter a number.")
+
+        if choice == correct_index:
+            print("Correct! +1 point")
+            score += 1
+        else:
+            print("Incorrect.")
+        print(f"Explanation: {scenario['explanation']}\n")
+    
+    print(f"Game over! Your final score: {score}/{len(scenarios)}")
+    if score == len(scenarios):
+        print("Excellent! You're a cybersecurity pro.")
+    elif score >= len(scenarios) // 2:
+        print("Good job! Keep learning.")
+    else:
+        print("Better luck next time. Review the explanations.")
+
+if __name__ == "__main__":
+    main()    
